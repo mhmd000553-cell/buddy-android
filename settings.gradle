@@ -1,0 +1,2 @@
+rootProject.name = 'buddy-android'
+include ':app'
